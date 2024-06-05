@@ -70,7 +70,7 @@ Explain the concept of modularity in software design. How does it improve mainta
 
 <h3>Testing in Software Engineering:
 
-Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?</h3>
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?</h3></br>
 
 <b>Software testing involves various levels, each serving a distinct purpose in ensuring the quality and reliability of a software product:</b>
 
@@ -80,7 +80,7 @@ Describe the different levels of software testing (unit testing, integration tes
 
 <li>System Testing: System testing evaluates the behavior of the entire software system as a whole. It verifies that the system meets specified requirements and functions correctly in its intended environment, including user interfaces, databases, networks, and hardware.</li>
 
-<li>Acceptance Testing: Acceptance testing validates whether the software meets the expectations and requirements of stakeholders, including end-users, customers, and business representatives. It typically involves user acceptance testing (UAT), where users test the software in a real-world environment to ensure it meets their needs.</li>
+<li>Acceptance Testing: Acceptance testing validates whether the software meets the expectations and requirements of stakeholders, including end-users, customers, and business representatives. It typically involves user acceptance testing (UAT), where users test the software in a real-world environment to ensure it meets their needs.</li></br>
 
 <b>Testing is crucial in software development for several reasons:</b>
 
